@@ -1,0 +1,22 @@
+{
+    "name": "Trust Wallet: RSS3 List",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2024-03-26T16:41:26.183301",
+    "tokens": [
+        {
+            "asset": "c10000070_t0x4200000000000000000000000000000000000042",
+            "type": "OPTIMISM",
+            "address": "0x4200000000000000000000000000000000000042",
+            "name": "RSS3 Token",
+            "symbol": "RSS3",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
