@@ -10,7 +10,17 @@
             "name": "RSS3 Token",
             "symbol": "RSS3",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/RSS3-Network/blockscout-assets/master/blockchains/rss3/assets/0x4200000000000000000000000000000000000042/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c10000070_t0xa58be8a3B8ad9a75785035c8D3DF5e4952Fd1228",
+            "type": "OPTIMISM",
+            "address": "0xa58be8a3B8ad9a75785035c8D3DF5e4952Fd1228",
+            "name": "RSS3 Token",
+            "symbol": "RSS3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/RSS3-Network/blockscout-assets/master/blockchains/rss3/assets/0xa58be8a3B8ad9a75785035c8D3DF5e4952Fd1228/logo.png",
             "pairs": []
         }
     ],
