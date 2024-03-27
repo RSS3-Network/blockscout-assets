@@ -1,0 +1,11 @@
+{
+    "name": "RSS3",
+    "type": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18,
+    "website": "https://rss3.io/",
+    "description": "RSS3 is a decentralized network indexing and structuring open information, making it accessible and valuable for the next Twitter, Google, and OpenAI.",
+    "explorer": "https://scan.testnet.rss3.io/token/0xa58be8a3B8ad9a75785035c8D3DF5e4952Fd1228",
+    "status": "active",
+    "id": "0xa58be8a3B8ad9a75785035c8D3DF5e4952Fd1228"
+}
